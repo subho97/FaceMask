@@ -1,4 +1,4 @@
-# FaceMask
+# FaceMask Detection
 Amidst the ongoing crisis, it's very important for each one of us to maintain safety protocols because at the end, if we stay safe others stay safe. Wearing a Face Mask is one such protocol we all must follow. This repository contains the files and documents that are required to fine-tune a MobileNetV2 CNN architecture to recognise faces and determine whether the person is wearing a mask or not. It works on still images as well as on live webcam stream in real-time.
 
 I will be breaking down the entire project into three simple and intersting steps.
