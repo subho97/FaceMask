@@ -9,3 +9,4 @@ I will be breaking down the entire project into three simple and intersting step
 
 #Stage 3: Apply the fine-tuned CNN on new images/live video stream - Once the CNN Model is ready, fresh and new images can be passed through it to classify them between people wearing a mask and people not wearing a mask. The project also includes the code to capture the live video stream from the local webcam and apply the model on the on each Image frame of the video to get a real-time classification.
   
+Happy Coding !
